@@ -5,7 +5,7 @@
  ☑️Knoweldge of HMTL, CSS, Bootstrap & JavaScript.</br>
  🍃Nature lover.</br>
  📚Passionate reader. </br>
- 📁Check my projects.</br>
+ 📁Check my repositories to see my projects.</br>
  ✅Connect with me [LinkedIn](https://www.linkedin.com/in/alina-serban-a9a09a2a8/)</br>
  
 
