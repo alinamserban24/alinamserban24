@@ -2,7 +2,7 @@
 
  
  💻Aspiring Web Developer.</br>
- ☑️Knoweldge of HMTL, CSS, Bootstrap & JavaScript.</br>
+ ☑️Knowledge of HMTL, CSS, Bootstrap & JavaScript.</br>
  🍃Nature lover.</br>
  📚Passionate reader. </br>
  📁Check my repositories to see my projects.</br>
