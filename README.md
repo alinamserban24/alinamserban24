@@ -1,7 +1,7 @@
 ## Hi, I'm Alina!
 
  
- 💻Aspiring Web Developer excited to explore the tech world.</br>
+ 💻Aspiring Web Developer.</br>
  ☑️Knoweldge of HMTL, CSS, Bootstrap & JavaScript.</br>
  🍃Nature lover.</br>
  📚Passionate reader. </br>
